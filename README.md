@@ -1,2 +1,3 @@
-# pj_quartz
- the game project quartz
+# PROJECT_QUARTZ2
+
+Developed with Unreal Engine 5
